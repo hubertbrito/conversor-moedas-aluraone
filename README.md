@@ -51,7 +51,7 @@ Lidar com exceções, como quando a moeda atual a ser convertida ou a conversora
 
 Optei pelo `HttpClient` porque era uma classe que aprendi no curso alura one.  No entanto, pesquisei sobre HttpConection uma classe nativa do Java e suficiente para o meu projeto, mas, preferi seguir com a primeira que ja conhecia.
 
-##Como Executar
+## Como Executar
 Clone este repositório.
 Compile o código Java.
 Execute o arquivo gerado
